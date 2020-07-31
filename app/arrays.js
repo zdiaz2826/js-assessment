@@ -97,4 +97,3 @@ exports.arraysAnswers = {
     return indexes;
   }
 };
-ç
